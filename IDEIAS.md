@@ -2,4 +2,4 @@
 
 Adicione abaixo uma sugestão de atividade que você gostaria de ver ou fazer no clube:
 
-- [Seu login]: Gostaria de aprender como passar a norminette automaticamente na libft.
+- [hda-silv lczeresn]: Gostaria de entender os conceitos introdutorios de Devops.
