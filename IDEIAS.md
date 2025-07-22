@@ -3,3 +3,5 @@
 Adicione abaixo uma sugestão de atividade que você gostaria de ver ou fazer no clube:
 
 - [Seu login]: Gostaria de aprender como passar a norminette automaticamente na libft.
+
+- [mmariano-elvictor]: aprender Docker e automatização de testes.
