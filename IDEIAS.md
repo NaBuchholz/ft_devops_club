@@ -9,3 +9,4 @@ Adicione abaixo uma sugestão de atividade que você gostaria de ver ou fazer no
 - [pvitor-l_marde-je]  Nessa aba da 42 do club compartilhar links como: apresentações dos encontros,
 - [jhualves]: Gostaria de criar um programa que cria ordens na bolsa de valores
 - [nde-sant]: Criar meus próprios testes automatizados
+- [gaguiar-]: Gostaria de aprender sobre ponteiros
